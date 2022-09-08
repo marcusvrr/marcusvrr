@@ -2,7 +2,7 @@
 Eu sou Marcus Vinicius ♑🏳️‍🌈,
 - 😄 Pronomes: Ele/Dele.
 ### Atualmente estudante <img align="center" alt="img labenu" height="35" width="30" src="https://yt3.ggpht.com/ytc/AKedOLSH-PUg_wTvKW7xAKL4PsXFV85N9Ys341g0WSVd=s48-c-k-c0x00ffffff-no-rj"> **Labenu** em formação ,
-- ![dev](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png) futuro Dev Web Full Stack;
+- <img align="center" alt="dev" height="40" width="35" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)"> futuro Dev Web Full Stack;
 - Tecnologias a serem assimiladas:
 </div>
 <div style="display: inline_block"><br>
