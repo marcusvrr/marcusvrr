@@ -1,6 +1,5 @@
 ## Olá mundo! 👋
 Eu sou Marcus Vinicius ♑🏳️‍🌈,
-- 😄 Pronomes: Ele/Dele.
 ### Atualmente estudante <img align="center" alt="img labenu" height="30" width="30" src="https://yt3.ggpht.com/ytc/AKedOLSH-PUg_wTvKW7xAKL4PsXFV85N9Ys341g0WSVd=s48-c-k-c0x00ffffff-no-rj"> **Labenu** em formação ,
 -  <img align="center" alt="dev" height="32" width="40" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"> futuro Dev Web Full Stack;
 - Tecnologias sendo assimiladas:
